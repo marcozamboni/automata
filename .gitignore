@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+.vscode/
+.idea/
+
+# Julia
+# (the Pluto notebook already embeds its own Project and Manifest)
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
